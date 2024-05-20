@@ -16,12 +16,12 @@ models:
       - name: order_status
         tests:
           - accepted_values:
-            values:
-              - created
-              - shipped
-              - approved
-              - canceled
-              - invoiced
-              - delivered
-              - processing
-              - unavailable
+              values:
+                - created
+                - shipped
+                - approved
+                - canceled
+                - invoiced
+                - delivered
+                - processing
+                - unavailable
